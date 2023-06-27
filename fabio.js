@@ -1,5 +1,5 @@
-// new line added
 
+modify fix dev
 const prompt = require('prompt-sync')();
 
 var fname = prompt("Enter your firtst name: ");
